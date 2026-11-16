@@ -1,0 +1,11 @@
+# executables
+/oss
+/worker
+/user_proc
+
+# object files
+*.o
+
+# log output from test runs
+*.txt
+*.log
